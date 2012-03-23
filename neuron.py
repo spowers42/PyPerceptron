@@ -1,6 +1,6 @@
 '''My basic implementation of the perceptron algorithm, able to handle
 classifying multiple classes in a run.  It must be given a dictionary with
-all the data in it broke down into lists of lists for each class, where the
+all the data in it broken down into lists of lists for each class, where the
 class is the key and the lists of data are the value.
 '''
 import random

@@ -4,7 +4,7 @@
 __author__ = 'Scott Powers'
 
 def dot(v1, v2):
-	''' dot accepts to vectors in the form of iterables and returns the
+	''' dot accepts two vectors in the form of iterables and returns the
 		dot product of the vectors
 	'''
 	if len(v1) == len(v2):
